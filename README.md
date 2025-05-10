@@ -15,9 +15,11 @@ The user can enter the number of bedrooms, bathrooms, and floors, and the progra
 2. Install **pandas, numpy, scikit-learn, xgboost, matplotlib, seaborn, gradio** if not already installed:
    ```bash
      pip install pandas numpy scikit-learn xgboost gradio matplotlib seaborn
-3.Now apply the **source_code.py** on second line of the google collab
-4.Now click the Run button
-5.fill the form and get the output
+
+ 3.Upload our Dataset **train.csv** oon GoogleCollab  
+ 4.Now apply the **source_code.py** on second line of the google collab  
+ 5.Now click the Run button  
+ 6.fill the form and get the output  
 
 
 
