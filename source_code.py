@@ -1,5 +1,3 @@
-pip install pandas numpy scikit-learn xgboost gradio matplotlib seaborn
-
 import pandas as pd
 import numpy as np
 
